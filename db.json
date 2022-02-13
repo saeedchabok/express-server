@@ -1,39 +1,17 @@
 {
   "products": [
     {
-      "id": 1,
-      "code": 12345,
-      "productsName": "Reis"
-    },
-    {
-      "id": 2,
-      "code": 222,
-      "productsName": "khiar"
-    },
-    {
-      "id": 3,
-      "code": 2225,
-      "productsName": "kkk"
-    },
-    {
-      "id": 4,
-      "code": 2225,
-      "productsName": "kkk"
-    },
-    {
-      "id": 5,
-      "code": 2225,
-      "productsName": "kkk"
-    },
-    {
-      "id": 6,
+      "id": "e89e4b06-d416-411c-87b4-88a3129eac27",
       "code": 2223,
       "productsName": "kharboze"
     },
     {
-      "id": 7,
-      "code": 2223,
-      "productsName": "kharboze"
+      "id": "4a4369c6-7842-4e4d-a258-701c998d5251",
+      "code": 228883,
+      "productsName": "panir"
     }
-  ]
+  ],
+  "users": [],
+  "orders": [],
+  "contacts": []
 }
