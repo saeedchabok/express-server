@@ -3,6 +3,7 @@ const morgan = require('morgan');
 require('dotenv').config;
 
 const home = require('./routes/home');
+const products = require('./routes/products');
 
 const app = express();
 
@@ -12,7 +13,7 @@ app.use(express.json());
 app.use(morgan('tiny'));
 
 app.use('/', home);
-// app.use('/listproducts', listproducts);
+app.use('/products', products);
 // app.use('/users', users);
 // app.use('/orders', orders);
 // app.use('/contact', contact);
