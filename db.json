@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": 12345,
+      "productsName": "Reis"
+    },
+    {
+      "id": 2,
+      "code": 222,
+      "productsName": "khiar"
+    },
+    {
+      "id": 3,
+      "code": 2225,
+      "productsName": "kkk"
+    },
+    {
+      "id": 4,
+      "code": 2225,
+      "productsName": "kkk"
+    },
+    {
+      "id": 5,
+      "code": 2225,
+      "productsName": "kkk"
+    },
+    {
+      "id": 6,
+      "code": 2223,
+      "productsName": "kharboze"
+    },
+    {
+      "id": 7,
+      "code": 2223,
+      "productsName": "kharboze"
+    }
+  ]
+}
